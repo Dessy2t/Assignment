@@ -19,7 +19,7 @@ h1{
     margin-block: 1rem;
 }
 
-section{
+form{
     display: flex;
     justify-content: center; 
 }
@@ -33,6 +33,7 @@ li {
 
 button {
     padding: 0.4rem 0.8rem;
+    margin: 0rem 0.5rem;
     background-color: #8744bb;
     border-radius: 0.5rem;
     border: none;
